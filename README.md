@@ -7,7 +7,7 @@ I am stuck between creating something based on subject matter of which I am pass
 + Music
   + Creating Music
   + Accordion
-  + Creating a complete musical experience
+  + Creating a complete sensory experience
 + Mindfulness (though not good at it!)
 + RPG Games
 
