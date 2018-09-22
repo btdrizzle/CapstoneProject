@@ -2,7 +2,7 @@
 
 I am stuck between creating something based on subject matter of which I am passionate, or creating something practical which could be useful to future clients.
 
-## My interests include:
+## My interests include
 
 + Music
   + Creating Music
@@ -11,7 +11,7 @@ I am stuck between creating something based on subject matter of which I am pass
 + Mindfulness (though not good at it!)
 + RPG Games
 
-## Practical items include:
+## Practical items include
 
 + Creating a marketplace I can use on client sites to sell goods
 + Creating a web app I can sell to companies (for what purpose?  I have no idea)
