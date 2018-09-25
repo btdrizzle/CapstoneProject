@@ -36,3 +36,10 @@ It could be fun as well to create an old school RPG... like one of the old text 
 
 ---
 Overall... on the fun side it could be neat to create something that would suspend reality a bit for someone... something soothing and calming and beautiful.  Yes, in some ways the exact opposite of a "marketplace."  I'd like to be impressive to prospective clients and also offer practical solutions so I can make some $$$.
+
+---
+
+## Final Decision
+
+I have decided to make a text based RPG for my capstone project.  I need to think of a theme, but am interested in using the Watson AI like you mentioned.  I don't know the capabilities of this AI, but have read that it helps with conversation with game characters?  I'd like to create not necessarily another world but a
+dimension/place that conveys a feeling of being lost, or you don't know how you got there, and you have to figure out where you are and who you are and why you're there.  This concept could be interesting... something more straightforward is a mystery to be solved.  I'd like to create something where a user can get lost in the game and suspend reality for a bit.  Not necessarily addictive but interesting to play and keeps user attention.  I could incorporate music into the game with leitmotif - specific characters and places will be represented by speicific music... every time.  This could possibly be a device to help solve the puzzle/get through the game.  I think a game will be much more interesting for me to make.
